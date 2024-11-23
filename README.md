@@ -35,6 +35,13 @@ This repository contains Jupyter notebooks for analyzing SpaceX launch data, per
      - Data visualization on geographical maps using Folium
      - Analyzing launch site locations and their proximity to coastlines, rail lines, and other infrastructure
 
+### 6. **labs-jupyter-spacex-Data-wrangling (1).ipynb**
+   - **Description**: This notebook demonstrates various data wrangling techniques applied to SpaceX data. It includes tasks like data cleaning, handling missing values, and preparing the dataset for analysis.
+   - **Key Techniques**:
+     - Data cleaning and preprocessing
+     - Handling missing values
+     - Feature engineering and transformation
+
 ## Requirements
 
 To run these notebooks locally, you'll need the following libraries installed:
